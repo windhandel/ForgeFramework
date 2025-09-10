@@ -19,27 +19,27 @@ The goal of Forge Framework is to provide:
 
 To create meaningful transformation, it is essential to identify the **gaps** between where you are and where you want to be. The Forge Framework uses multiple lenses of analysis:
 
-1. **Mindset / Belief Gap Analysis**  
+1. [**Mindset / Belief Gap Analysis**](/GapAnalysis/Mindset.md)
    - Surfaces limiting beliefs, doubts, or identity conflicts.  
    - Reframes them into empowering mental models aligned with purpose.  
 
-2. **Archetypal Gap Analysis**  
+2. [**Archetypal Gap Analysis**](/GapAnalysis/Archetypal.md)
    - Examines which archetypes (e.g., Hero, Sage, Creator, Caregiver, etc.) you are currently embodying versus those required to fulfill your vision.  
    - Highlights underdeveloped roles that could balance or expand your growth.  
 
-3. **Functional / Life Gap Analysis**  
+3. [**Functional / Life Gap Analysis**](/GapAnalysis/Functional.md)
    - Evaluates areas of life such as health, wealth, relationships, career, learning, and contribution.  
    - Surfaces deficits that can prevent long-term stability or fulfillment.  
 
-4. **Skill Gap Analysis**  
+4. [**Skill Gap Analysis**](/GapAnalysis/Skill.md)
    - Identifies specific abilities or knowledge missing that would accelerate progress.  
    - Useful for career, entrepreneurship, or creative pursuits.  
 
-5. **Behavioral Gap Analysis**  
+5. [**Behavioral Gap Analysis**](/GapAnalysis/Behavioral.md)
    - Maps current habits, routines, and actions against the habits required to achieve goals.  
    - Clarifies what to start, stop, or optimize.  
 
-6. **Resource Gap Analysis**  
+6. [**Resource Gap Analysis**](/GapAnalysis/Resource.md)
    - Looks at external supports: time, money, energy, networks, tools.  
    - Reveals what resources need to be acquired, conserved, or reallocated.  
 
