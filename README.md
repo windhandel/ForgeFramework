@@ -1,3 +1,6 @@
+Perfect — we’ll expand your `README.md` to make it more robust and structured. Below is the updated draft with the **Analysis** section (including archetypal, functional/life, and other gap analysis types), plus the new **Vision**, **Goal Setting**, **Self-Actualization**, and **Execution** sections.
+
+```markdown
 # Forge Framework
 
 Forge Framework is an evolving collection of ideas, practices, and tools designed to help individuals and teams align identity, execution, and outcomes.  
@@ -12,6 +15,81 @@ The goal of Forge Framework is to provide:
 - **Clarity of Identity (Be):** Defining who you are becoming and the values you live by.  
 - **Disciplined Execution (Do):** Establishing habits, systems, and focus that drive meaningful progress.  
 - **Aligned Outcomes (Have):** Measuring results, celebrating wins, and refining the approach for continual growth.  
+
+---
+
+## Evaluation and Analysis
+
+To create meaningful transformation, it is essential to identify the **gaps** between where you are and where you want to be. The Forge Framework uses multiple lenses of analysis:
+
+1. **Mindset / Belief Gap Analysis**  
+   - Surfaces limiting beliefs, doubts, or identity conflicts.  
+   - Reframes them into empowering mental models aligned with purpose.  
+
+2. **Archetypal Gap Analysis**  
+   - Examines which archetypes (e.g., Hero, Sage, Creator, Caregiver, etc.) you are currently embodying versus those required to fulfill your vision.  
+   - Highlights underdeveloped roles that could balance or expand your growth.  
+
+3. **Functional / Life Gap Analysis**  
+   - Evaluates areas of life such as health, wealth, relationships, career, learning, and contribution.  
+   - Surfaces deficits that can prevent long-term stability or fulfillment.  
+
+4. **Skill Gap Analysis**  
+   - Identifies specific abilities or knowledge missing that would accelerate progress.  
+   - Useful for career, entrepreneurship, or creative pursuits.  
+
+5. **Behavioral Gap Analysis**  
+   - Maps current habits, routines, and actions against the habits required to achieve goals.  
+   - Clarifies what to start, stop, or optimize.  
+
+6. **Resource Gap Analysis**  
+   - Looks at external supports: time, money, energy, networks, tools.  
+   - Reveals what resources need to be acquired, conserved, or reallocated.  
+
+By combining these types, the Forge Framework provides **identity assessment**, **inner alignment** and **outer strategy** for growth.
+
+---
+
+## Vision
+
+Forge begins with vision. Without a clear picture of the future, execution has no compass. Vision involves:  
+
+- **Defining your ideal state** across personal and professional domains.  
+- **Using imagination and creativity** to project possibilities beyond current limits.  
+- **Anchoring the vision** in values, purpose, and archetypes that resonate deeply.  
+
+---
+
+## Goal Setting
+
+Goal setting transforms vision into actionable targets:  
+
+- Apply **clarity of intent** (Brian Tracy’s principle: “Success starts with clarity”).  
+- Write **specific, measurable, achievable, relevant, time-bound (SMART)** goals.  
+- Prioritize using methods like **ABCDE analysis** or **Pareto’s 80/20 rule**.  
+- Create a **hierarchy of goals**: lifetime, 5-year, 1-year, quarterly, and weekly.  
+
+---
+
+## Self-Actualization
+
+Self-actualization is the pursuit of becoming your fullest self, not just achieving outcomes. Within the Forge Framework, it includes:  
+
+- **Identity Development:** Growing into the person who can hold greater responsibility and fulfillment.  
+- **Integration:** Balancing archetypes and life areas into a cohesive whole.  
+- **Transcendence:** Moving beyond survival or success into contribution, creativity, and legacy.  
+
+---
+
+## Execution
+
+Execution turns plans into results. Forge emphasizes disciplined yet adaptive action:  
+
+- **Focus:** Concentrate on the single most impactful task daily (“Eat That Frog”).  
+- **Systems & Habits:** Build routines that reduce friction and automate progress.  
+- **Measurement:** Track key metrics and adjust regularly.  
+- **Accountability:** Use partners, mentors, or communities to sustain momentum.  
+- **Iteration:** Review, refine, and realign through feedback and reflection loops.  
 
 ---
 
@@ -60,3 +138,6 @@ You are free to use, adapt, and share with attribution, but not for commercial p
 - Browse the [documents](https://drive.google.com/drive/folders/1MwpL_cDu8KlxZYCydvLaP8wP_E5FQL_V?usp=drive_link).  
 - Read the [BeDoHave.md](BeDoHave.md) primer for a foundational concept.  
 - Apply the principles in your own personal or professional goals.
+```
+
+Would you like me to also generate a **BeDoHave.md** file that matches this README — with examples, mini exercises, and maybe a reflection prompt — so that the link feels like a natural continuation?
