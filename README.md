@@ -1,6 +1,3 @@
-Perfect — we’ll expand your `README.md` to make it more robust and structured. Below is the updated draft with the **Analysis** section (including archetypal, functional/life, and other gap analysis types), plus the new **Vision**, **Goal Setting**, **Self-Actualization**, and **Execution** sections.
-
-```markdown
 # Forge Framework
 
 Forge Framework is an evolving collection of ideas, practices, and tools designed to help individuals and teams align identity, execution, and outcomes.  
@@ -138,6 +135,3 @@ You are free to use, adapt, and share with attribution, but not for commercial p
 - Browse the [documents](https://drive.google.com/drive/folders/1MwpL_cDu8KlxZYCydvLaP8wP_E5FQL_V?usp=drive_link).  
 - Read the [BeDoHave.md](BeDoHave.md) primer for a foundational concept.  
 - Apply the principles in your own personal or professional goals.
-```
-
-Would you like me to also generate a **BeDoHave.md** file that matches this README — with examples, mini exercises, and maybe a reflection prompt — so that the link feels like a natural continuation?
