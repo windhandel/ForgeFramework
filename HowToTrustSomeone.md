@@ -1,5 +1,5 @@
 ```mermaid
-flowchart LR
+flowchart TD
   %% STAGE 1
   subgraph Foundation Year 0 to 1
     A1[First contact and context fit]
