@@ -107,7 +107,8 @@ Execution turns plans into results. Forge emphasizes disciplined yet adaptive ac
 Living your best life requires a variety of tool in your toolbelt for various situations and needs.  
 Here are some tools:
 
-👉 [How to Trust Someone](/HowToTrustSomeone.md)
+👉 [How to Trust Someone](/Deception/HowToTrustSomeone.md)
+👉 [Common Deception Patterns](/Deception/DeceptionPatterns.md)
 
 ---
 
