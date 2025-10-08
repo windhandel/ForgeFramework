@@ -205,3 +205,5 @@ Use this as a reference to spot patterns over time. One instance can be a mistak
 Track patterns over time. A single mistake can be repaired. Repeated behaviors signal misalignment.
 Pair with a trust plan. Confirm words with actions, use clear boundaries, and escalate commitment only after reliability is shown.
 Document facts. Save dates, plans, and agreements in writing so memory games do not take over.
+
+There is also a [fillable spreadsheet you can use](/Workfiles/Relationship_Deception_Tracker.xlsx) to calculate someone's score.
