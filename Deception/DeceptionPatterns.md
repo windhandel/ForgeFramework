@@ -1,4 +1,4 @@
-Relationship Deception Patterns
+# Relationship Deception Patterns
 
 Use this as a reference to spot patterns over time. One instance can be a mistake. Repeated patterns are a signal.
 
@@ -13,7 +13,7 @@ Examples:
 
 - Mentions engagement timing often yet avoids any concrete steps
 
-2. Love bombing then withdrawal
+1. Love bombing then withdrawal
 
 Description: Intense attention and affection early, followed by a sudden pullback once attachment forms.
 Examples:
@@ -24,7 +24,7 @@ Examples:
 
 - Pushes for exclusivity quickly, then becomes emotionally distant
 
-3. Gaslighting
+1. Gaslighting
 
 Description: Twisting facts to make you doubt your memory, perception, or sanity.
 Examples:
@@ -35,7 +35,7 @@ Examples:
 
 - Moves goalposts and claims you are forgetting the real agreement
 
-4. DARVO
+1. DARVO
 
 Description: Deny, attack, and reverse victim and offender when confronted about behavior.
 Examples:
@@ -46,7 +46,7 @@ Examples:
 
 - Positions themself as the one who was harmed by your boundaries
 
-5. Triangulation
+1. Triangulation
 
 Description: Introducing a third person to create rivalry, pressure, or confusion.
 Examples:
@@ -57,7 +57,7 @@ Examples:
 
 - Routes messages through a friend instead of speaking directly
 
-6. Breadcrumbing
+1. Breadcrumbing
 
 Description: Occasional contact to keep interest alive without moving the relationship forward.
 Examples:
@@ -68,7 +68,7 @@ Examples:
 
 - Shares vague we should hang soon without dates
 
-7. Benching or orbiting
+1. Benching or orbiting
 
 Description: Keeping you in standby while staying present on social channels without real engagement.
 Examples:
@@ -79,7 +79,7 @@ Examples:
 
 - Reacts to your posts yet never follows through on plans
 
-8. Paperclipping or zombieing
+1. Paperclipping or zombieing
 
 Description: Reappearing briefly after disappearing to rehook attention, often with no accountability.
 Examples:
@@ -90,7 +90,7 @@ Examples:
 
 - Pops up right when you start dating someone new
 
-9. Pocketing
+1. Pocketing
 
 Description: Hiding the relationship from friends, family, or community.
 Examples:
@@ -101,7 +101,7 @@ Examples:
 
 - Changes topics when future events with others come up
 
-10. Cushioning
+1. Cushioning
 
 Description: Quietly cultivating backups while still involved with you.
 Examples:
@@ -112,7 +112,7 @@ Examples:
 
 - Stores old situationships in friendly contact for emergencies
 
-11. Emotional affair secrecy
+1. Emotional affair secrecy
 
 Description: Deep private intimacy with someone else while insisting it is harmless.
 Examples:
@@ -123,7 +123,7 @@ Examples:
 
 - Deletes message threads with someone they claim is just a friend
 
-12. Financial deception
+1. Financial deception
 
 Description: Hidden debt, income, or spending that affects shared plans.
 Examples:
@@ -134,7 +134,7 @@ Examples:
 
 - Promises to split costs and repeatedly arrives without ability to pay
 
-13. Sexual consent games
+1. Sexual consent games
 
 Description: Pressure, guilt, or quid pro quo around intimacy.
 Examples:
@@ -145,7 +145,7 @@ Examples:
 
 - Reframes consent as owed because of time or money spent
 
-14. Boundary testing
+1. Boundary testing
 
 Description: Repeated small pushes against stated limits to see what is allowed.
 Examples:
@@ -156,7 +156,7 @@ Examples:
 
 - Shows up uninvited after you asked for notice
 
-15. Blame shifting and minimization
+1. Blame shifting and minimization
 
 Description: Recasting their choices as your fault or as no big deal.
 Examples:
@@ -167,7 +167,7 @@ Examples:
 
 - Claims you are overreacting to avoid repair
 
-16. Strategic stonewalling
+1. Strategic stonewalling
 
 Description: Withholding communication to control outcomes rather than to self regulate.
 Examples:
@@ -178,7 +178,7 @@ Examples:
 
 - Refuses to schedule a time to talk issues through
 
-17. Reputation laundering
+1. Reputation laundering
 
 Description: Managing a polished public image that contradicts private behavior.
 Examples:
@@ -189,7 +189,7 @@ Examples:
 
 - Performs apologies in public without changing actions in private
 
-18. Catfishing or kittenfishing
+1. Catfishing or kittenfishing
 
 Description: False identity or heavily edited persona online to create attraction.
 Examples:
@@ -200,7 +200,7 @@ Examples:
 
 - Presents an age or lifestyle that later proves inaccurate
 
-How to use this list
+## How to use this list
 
 Track patterns over time. A single mistake can be repaired. Repeated behaviors signal misalignment.
 Pair with a trust plan. Confirm words with actions, use clear boundaries, and escalate commitment only after reliability is shown.
