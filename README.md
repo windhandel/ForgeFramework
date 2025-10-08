@@ -47,6 +47,18 @@ By combining these types, the Forge Framework provides **identity assessment**, 
 
 ---
 
+## Be, Do, Have
+
+A central principle of the Forge Framework is **[BeDoHave.md](BeDoHave.md)** which, successfully executed, inverts your thinking    from Do, Have Be to Be, Do, Have. Or, in other words, :
+
+- **Be:** Focus on identity, mindset, and values. Who you choose to become shapes everything else.  
+- **Do:** Take consistent, disciplined action aligned with your identity. Habits and systems drive results.  
+- **Have:** Achieve outcomes that reflect both effort and alignment, then refine the cycle for continued growth.  
+
+For a deeper dive into this principle and how it applies within Forge Framework, see the [BeDoHave.md](BeDoHave.md) document.
+
+---
+
 ## Vision
 
 Forge begins with vision. Without a clear picture of the future, execution has no compass. Vision involves:  
@@ -90,24 +102,21 @@ Execution turns plans into results. Forge emphasizes disciplined yet adaptive ac
 
 ---
 
+## Tools
+
+Living your best life requires a variety of tool in your toolbelt for various situations and needs.  
+Here are some tools:
+
+👉 [How to Trust Someone](/HowToTrustSomeone.md)
+
+---
+
 ## Documentation
 
 All living documentation for the Forge Framework is maintained in Google Docs.  
 You can review the full library here:
 
 👉 [Forge Framework Documents](https://drive.google.com/drive/folders/1MwpL_cDu8KlxZYCydvLaP8wP_E5FQL_V?usp=drive_link)
-
----
-
-## Be, Do, Have
-
-A central principle of the Forge Framework is the **Be, Do, Have** model:  
-
-- **Be:** Focus on identity, mindset, and values. Who you choose to become shapes everything else.  
-- **Do:** Take consistent, disciplined action aligned with your identity. Habits and systems drive results.  
-- **Have:** Achieve outcomes that reflect both effort and alignment, then refine the cycle for continued growth.  
-
-For a deeper dive into this principle and how it applies within Forge Framework, see the [BeDoHave.md](BeDoHave.md) document.
 
 ---
 
