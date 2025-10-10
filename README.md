@@ -149,7 +149,7 @@ Finding your ideal mate is an intentional process:
 Building healthy relationships requires discernment and trust. These resources can help:
 
 - 👉 [How to Trust Someone](/Deception/HowToTrustSomeone.md)
-- 👉 [Common Deception Patterns](/Deception/DeceptionPatterns.md)
+- 👉 [Common Deception and Manipulation Patterns](/Deception/DeceptionAndManipulationPatterns.md)
 
 ---
 
