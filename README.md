@@ -137,12 +137,16 @@ Visualization bridges the gap between intention and reality, making it easier to
 
 ---
 
-# Finding Your Ideal Mate
+# Finding and Qualifying Your Ideal Mate
 
 Finding your ideal mate is an intentional process:
 
 - **Intentional Action:** Engage in environments and communities aligned with your values, and take proactive steps to meet potential partners.
 - **Alignment:** Seek mutual growth, shared purpose, and complementary strengths for a lasting partnership.
+
+## Ensuring a Woman Qualifies Herself
+
+Almost more important than you qualifying the woman is [her qualifying herself](./MakeHerEarnIt.md) which enables her to feel she's earned a spot at the table with you.
 
 ## Navigating Trust and Deception
 
@@ -166,9 +170,10 @@ You can review the full library here:
 
 This project is in an open, evolving stage. Contributions are welcome in the form of:
 
-- **Feedback** on clarity and usefulness.  
-- **New ideas** that align with the Be → Do → Have principle.  
-- **Visuals or diagrams** that help explain the concepts.  
+- **Contribution** if you find this work helpful, [your financial contribution is greatly appreciated.](https://venmo.com/windhandel).
+- **Feedback** on clarity and usefulness.
+- **New ideas** that align with the Be → Do → Have principle.
+- **Request Visuals or diagrams** that help explain the concepts.
 
 To contribute, please open an issue or share comments directly in the Google Docs.
 
