@@ -172,8 +172,8 @@ This project is in an open, evolving stage. Contributions are welcome in the for
 
 - **Contribution** if you find this work helpful, [your financial contribution is greatly appreciated.](https://venmo.com/windhandel).
 - **Feedback** on clarity and usefulness.
-- **New ideas** that align with the Be → Do → Have principle.
-- **Request Visuals or diagrams** that help explain the concepts.
+- **New ideas** that align with the principles outlined herein.
+- **Request for visuals or diagrams** that help explain the concepts.
 
 To contribute, please open an issue or share comments directly in the Google Docs.
 
